@@ -8,7 +8,10 @@ I was watching a YouTube video, [Learn SQL FAST by Kedeisha Bryan](https://www.y
 The task is to learn about SQL Window Functions. I chose to create a new database, table, and columns based on the table in the video. Those files are here: [CreateTable](/CreateTable/). Then, write a few queries using ROW_NUMBER() and OVER() functions [WindowFunctions](/WindowFunctions/). Ultimately answering the question: What are the top 3 names for each gender?
 
 ## Tools
-PostgreSQL, VS Code, Git, github.com, and GitHub Desktop.
+- **PostgreSQL**
+- **VS Code**
+- **github.com**
+- **GitHub Desktop**
 
 ## Analysis
 I used the following SQL query:
