@@ -35,7 +35,7 @@ Here is the table for the top 3 baby names for each gender:
 
 
 ## Learned
-I learned how to use the window functions ROW_NUMBER() and OVER(). I learned that ROW_NUMBER() is the function and OVER() defines the window.
+I learned how to use the window functions ROW_NUMBER() and OVER(). I learned that ROW_NUMBER() is the function and OVER() defines the window. I also learned the difference between ROW_NUMBER(), RANK(), and DENSE_RANK().
 
 ## Conclusion
 For boys, Noah is 1st, Ethan is 2nd, and Jacob is 3rd.
